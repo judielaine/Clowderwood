@@ -8,13 +8,13 @@
       - [v1](#v1)
     - [Raingauge directories (raw data)](#raingauge-directories-raw-data)
 
-We began recording rain and then temperature and humitdity at Clowderwood in 2018 and 2019. Windspeed is impractical to record because of the way wind is caught in the clearing and is redirected by the pines. 
+We began recording rain and then temperature and humitdity at Clowderwood in 2018 and 2019. Windspeed is impractical to record because of the way wind is caught in the clearing and is redirected by the pines.
 
 ## Processes and practices
 
 Recording climate extremes at airtable ([private link](https://airtable.com/tblGdP3Iq4ST0KGyF/viwoJZrH9rx84CDb3?blocks=hide)) and periodically exporting to extremes.csv.
 
-For rain measurements, using a 4" diameter high capacity manual rain gauge as recommended by [CoCoRaHS](https://www.cocorahs.org/) checked daily, in general. The goal is to check between 7 and 8 am and log at [airtable](https://airtable.com/shr0qeDlQyZvvLDNt), and ideally be up to date at CoCoRaHS station number NC-CH-41. Some records are logged as 8 am when made later in the day when we are aware no precipitation has occured. 
+For rain measurements, using a 4" diameter high capacity manual rain gauge as recommended by [CoCoRaHS](https://www.cocorahs.org/) checked daily, in general. The goal is to check between 7 and 8 am and log at [airtable](https://airtable.com/shr0qeDlQyZvvLDNt), and ideally be up to date at CoCoRaHS station number NC-CH-41. Some records are logged as 8 am when made later in the day when we are aware no precipitation has occured. Contributions to CoCoRaHS began 2019-04-19.
 
 For temperature and humidity, we have a [3-Sensor Temperature and Humidity Smart Home Environment System with My AcuRite](https://www.acurite.com/environment-system-with-temperature-and-humidity-01059.html)
 Model #: 01006M. (Note the [Wayback Machine's last saved 2017 version of that page](https://www.acurite.com/environment-system-with-temperature-and-humidity-01059.html) is for a different model. [Private Evernote link](https://www.evernote.com/shard/s6/nl/757910/f52ba591-3caa-4a91-a629-9fe7e0a55157/)). An additional AcuRite 06044M Wireless Temperature and Humidity Monitor Sensor is used for interior measurements. At least once a month, the data from the Acurite dashboard ([private link](https://www.myacurite.com/#/dashboard/922231)) is downloaded.
@@ -23,7 +23,7 @@ Model #: 01006M. (Note the [Wayback Machine's last saved 2017 version of that pa
 
 ### Acurite directories (raw data)
 
-These contain the export of the Acurite sensors from the Acurite dashboard ([private link](https://www.myacurite.com/#/dashboard/922231)), named by the date the extract occurred. One is limited to extracting a month's worth of data at a time. Gaps and overlaps occur between files. 
+These contain the export of the Acurite sensors from the Acurite dashboard ([private link](https://www.myacurite.com/#/dashboard/922231)), named by the date the extract occurred. One is limited to extracting a month's worth of data at a time. Gaps and overlaps occur between files.
 
 The exports include the following headers, many of which are unused:
 
@@ -41,7 +41,7 @@ The exports include the following headers, many of which are unused:
 
 #### v1
 
-This period includes a number of changes before the stable v2 set up. The initial purchase came with three sensors. These were installed on the back porch (Porch), inside the greenhouse (Greenhouse), and inside (Home).  I purchased  on October 25, 2019 a fourth sensor for inside use, and then moved the previously inside sensor to the back fence. This allowed a short period to compare the previously outside "Porch" sensor had significant differences from the back fence sensor. 
+This period includes a number of changes before the stable v2 set up. The initial purchase came with three sensors. These were installed on the back porch (Porch), inside the greenhouse (Greenhouse), and inside (Home).  I purchased  on October 25, 2019 a fourth sensor for inside use, and then moved the previously inside sensor to the back fence. This allowed a short period to compare the previously outside "Porch" sensor had significant differences from the back fence sensor.
 
 At some point before Nov 12, 2019 I moved what had been the deck thermometer into garage. I also moved back fence sensor much closer to SE corner where it is likely in more shade and less likely to be affected by sun.
 
