@@ -29,6 +29,8 @@ The exports include the following headers, many of which are unused:
 
 > Temperature ( F ),Humidity ( RH ),Dew Point ( F ),Heat Index ( F ),Feels Like,Wind Chill,Barometric Pressure ( INHG ),Accumulated Rain,Wind Speed,Wind Average,Wind Direction,Wired Sensor Temperature,Wired Sensor Humidity,Soil & Liquid Temperature,Water Detected,UV Index,Light Intensity,Measured Light,Lightning Strike Count,Lightning Closest Strike Distance
 
+The timestamp format is "2019/11/16 12:00 AM"  Data is recorded every five minutes.
+
 #### v2
 
 - Temp & Humidity Sensors:
