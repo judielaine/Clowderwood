@@ -1,6 +1,6 @@
 # Over view of the front porch at Clowderwood
 
-The gardens are described in the [front porch gardens overview](../../Gardens/Front%20porch/Overview.md)
+The gardens are described in the [front porch gardens overview](../../Gardens/Front%20porch/index.md)
 
 ## History
 

@@ -7,6 +7,7 @@ The front porch area, essentially as it was when we bought the house.
 ![Front porch 2020](photosFrontPorch/2020-07-09-porch.jpg)
 
 Note:
+
 - azaleas under front room window
 - wooden steps
 - white turned posts

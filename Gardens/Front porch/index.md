@@ -1,6 +1,6 @@
 # Front window garden 
 
-See also [details about the front porch of the house](../../Home/Front%20porch/Overview.md)
+See also [details about the front porch of the house](../../Home/Front%20porch/index.md)
 
 
 ## 2020 Mood board
