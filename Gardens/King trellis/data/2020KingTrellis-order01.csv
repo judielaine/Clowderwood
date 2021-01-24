@@ -1,8 +1,9 @@
-"Item"," price each"," units"," comment"
-"3/8-in x 16 Galvanized Steel Hex Nut"," 0.24"," 10","Two extra"
-"2-in x 4-in x 10-ft #2 Prime Pressure Treated Lumber"," 8.37"," 1"," To use as the supporting cross beam"
-"6-in x 6-in x 8-ft #2 Pressure Treated Lumber","27.77 ","2","Support posts, will be cutting shorter"
-"1x6x12 TRT Appearance Grade","8.97 ","2","Facing. Instead of one 12"" wide board, using two 6"" wide. Just facing, so 1"" thick. $10 less than the 2x12 board. "
-"0.400-in x Hot-dipped Galvanized Standard (SAE) Flat Washer","0.24","10","Two extra"
-"3/8-in x 10-in Coarse Thread Carriage Bolt","2.91","8","The savings in the board is made up with needing the additional fasteners. Still, i think handling the lighter lumber will be easier for me."
-"3/8-in Standard Twist Drill Bit [12"" long]","12.98 ","1",""
+"Item"," price each"," units"," comment",status
+"3/8-in x 16 Galvanized Steel Hex Nut"," 0.24"," 10","Two extra",""
+"2-in x 4-in x 10-ft #2 Prime Pressure Treated Lumber"," 8.37"," 1"," To use as the supporting cross beam",""
+"6-in x 6-in x 8-ft #2 Pressure Treated Lumber","27.77 ","2","Support posts, will be cutting shorter",cancel
+"1x6x12 TRT Appearance Grade","8.97 ","2","Facing. Instead of one 12"" wide board, using two 6"" wide. Just facing, so 1"" thick. $10 less than the 2x12 board. ",""
+"0.400-in x Hot-dipped Galvanized Standard (SAE) Flat Washer","0.24","10","Two extra",""
+"3/8-in x 10-in Coarse Thread Carriage Bolt","2.91","8","The savings in the board is made up with needing the additional fasteners. Still, i think handling the lighter lumber will be easier for me.",""
+"3/8-in Standard Twist Drill Bit [12"" long]","12.98 ","1","",""
+"4-in x 4-in x 8-ft #2 Pressure Treated Lumber","8.27","2","Support posts, will be cutting shorter",""
