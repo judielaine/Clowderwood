@@ -1,9 +1,18 @@
 # County documentation
 
+## Deeds and plats
+
+Folder contains documentation from the county regarding the parcel. Private notes on the purchase include other covenants, easements and deeds that need to be added here,
+
+[ ] TODO combine older deeds that are per page pdf into single pages
+[ ] TODO create index.md for deeds and plats and create history
+[ ] TODO review easements and covenants provided in house purchase and include here
+
 ## Property tax
 
 Current documentation of the valuation can be found [online](http://ustaxdata.com/nc/chatham/print.cfm?ownerID=55862&parcelID=0066619). Use the parcel number, 0066619, for searches of 
 
+[ ] TODO Begin recording the annual county and fire district tax rate plus the waste fees
 
 ### Changes in valuation
 
