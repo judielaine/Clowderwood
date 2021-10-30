@@ -45,7 +45,7 @@ On the second row:
   * "Pink Spire' may be synonymous with Actaea simplex 'Pink Spike' which is more commonly available in commerce." [MBG](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=269229&isprofile=0&), QV [Gardenia](https://www.gardenia.net/plant/actaea-simplex-pink-spike-baneberry)
   * >  Prefers a consistently moist site for best habit. Adds architectural oomph and late summer bloom to a shady area. Good in groups or as a specimen. Best color in light shade. ... Cimicifuga are grown for their dramatic stature and impressive blooms. Finely cut fern-like foliage makes a perfect backdrop for late summer spires of fragrant flowers. Prefers a consistently moist site for best habit. Deer resistant. Extremely hardy. Plants may take a year to really get going (similar to Baptisia). ... Performs best in fertile, moist, high-organic, acidic soil that drains well. Avoid hot afternoon sun. Seedheads provide winter interest, so best to cut down in spring. Division is rarely needed as once established, plants can remain undisturbed indefinitely. [here](https://www.bluestoneperennials.com/CIPS.html?gclid=Cj0KCQjw0oCDBhCPARIsAII3C_G7l_UQFl9ryoDGMwjMnZVatNygaYjmj0_5LL01nALf4aBIdbhdYi4aAgWVEALw_wcB)
   
-* [Lamiaceae-Nepetoideae-Ocimeae: Plectranthus scutellarioides (Coleus)] (https://www.evernote.com/shard/s6/nl/757910/3f05124f-9533-489a-962d-6fff291fa08b/) 'Main Street River Walk' (chartreuse, 12-18" high x 10-12" wide) and 'Kiwi fern' (purple, 18" high), both full sun-full shade
+* [Lamiaceae-Nepetoideae-Ocimeae: Plectranthus scutellarioides (Coleus)] (https://www.evernote.com/shard/s6/nl/757910/3f05124f-9533-489a-962d-6fff291fa08b/) 'Main Street River Walk' (chartreuse, 12-18" high x 10-12" wide) and 'Kiwi fern' (purple, 18" high), both full sun-full shade -- FROZE, sigh
 
 ## History
 
@@ -54,6 +54,8 @@ On the second row:
 This image from 2020, before the removal of the azaleas.
 
 ![Front porch 2020](../../Home/Front%20porch/photosFrontPorch/2020SummerPorch.jpg)
+
+TODO fix photo path
 
 2020-08-11 cut back the _Rhododendron spp._ (azaleas) as they are highly flammable and  develeped an infection. The absence of shrubbery does not look “naked” — I don’t think we need the _Dirca palustris_ (Leatherwood) or a witch hazel to anchor the corner.
 
@@ -95,3 +97,28 @@ Considering additional plants, wrote Plant Delights: The Acanthus, depending on 
 * Trillium luteum - Yellow Trillium
 * Lamiaceae-Scutellarioideae: *Scutellaria serrata* [Woodlanders $10/qt](https://www.woodlanders.net/index.cfm?fuseaction=plants.plantDetail&plant_id=1542) purple in May (Along with *Oxalis violacea*)
   
+### 2010-04-xx
+
+Planting.
+
+### 2021-10-18
+
+![Plan view](photosInSitu/2021-10-17-plan.jpg)
+
+See write-up in [airtable](https://airtable.com/appyQse52VPBF0W9a/tblEaEwkRKBnC5tyY/viwmYserdFsTADeRi/rec64GcNDyv3w8uSL?blocks=hide)
+
+Perennials present:
+
+* "Christmas fern (FrtE, 110)",
+* "Christmas fern (FrtE, 111)",
+* "Bugbane 'Brunette' (FrtE, 109)",
+* "Southern Lady fern (FrtE, 116)",
+* "Bugbane 'Pink spike' (FrtE, 112)",
+* "Heuchera x 'Lemon Love' (FrtE, 117)",
+* "Heuchera Forever® Purple (FrtE, 114)",
+* "Helleborus X 'Winter Delights Violet' (FrtE, 120)",
+* "Helleborus 'Tropical Sunset' HONEYMOON® Series (FrtE, 118)", and
+* "Sedum 'Boogie Woogie' PPAF CPBRAF ROCK 'N GROW® Collection (FrtE, 119)".
+
+### Next
+
