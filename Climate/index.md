@@ -2,6 +2,8 @@
 
 - [Clowderwood Climate](#clowderwood-climate)
   - [Processes and practices](#processes-and-practices)
+  - [Observation notes](#observation-notes)
+    - [2020 Rain gauge and Cocorhas](#2020-rain-gauge-and-cocorhas)
   - [Site map](#site-map)
     - [Acurite directories (raw data)](#acurite-directories-raw-data)
       - [v2](#v2)
@@ -18,6 +20,22 @@ For rain measurements, using a 4" diameter high capacity manual rain gauge as re
 
 For temperature and humidity, we have a [3-Sensor Temperature and Humidity Smart Home Environment System with My AcuRite](https://www.acurite.com/environment-system-with-temperature-and-humidity-01059.html)
 Model #: 01006M. (Note the [Wayback Machine's last saved 2017 version of that page](https://www.acurite.com/environment-system-with-temperature-and-humidity-01059.html) is for a different model. [Private Evernote link](https://www.evernote.com/shard/s6/nl/757910/f52ba591-3caa-4a91-a629-9fe7e0a55157/)). An additional AcuRite 06044M Wireless Temperature and Humidity Monitor Sensor is used for interior measurements. At least once a month, the data from the Acurite dashboard ([private link](https://www.myacurite.com/#/dashboard/922231)) is downloaded.
+
+
+## Observation notes
+
+### 2020 Rain gauge and Cocorhas
+
+Missing: 10/31 probably dry; 11/9 thru 11/25 (other stations reported rain: 11/23, 11/14, 11/13 major rain reported -loss here, i think, 11/12, 11/11, 11/10 ; 11/27 thru 12/3 (other stations report on 12/01, 11/30 - heavy -11/28, 11/27 
+
+
+[ ] 3 Dec 7:50 full frost,
+[ ] 2 Dec 7:30 full frost -- blue skies & clear
+[ ] 1 Dec 7:53 no frost 0.16
+[ ] 30 Nov 8:20 .89+.48
+[ ] FROST 2020-11-17 7:55  100% Frost o
+[ ] 20201124 FROST 8 am >75% frost on garage roof, frost on car
+[ ] 1/26/2020 last cocorahs << this might be 2021 
 
 ## Site map
 
