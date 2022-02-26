@@ -27,7 +27,7 @@ Model #: 01006M. (Note the [Wayback Machine's last saved 2017 version of that pa
 
 ### Pollen.com
 
-On 2022-02-26 created a filter for my email to copy all pollen.com emails into a folder. I'll stop transcribing the data as i have for a year or so and will plan to datamine the email collection in the future.
+On 2022-02-26 created a filter for my email to copy all pollen.com emails into a folder. I'll stop transcribing the data as i have for a year or so and will plan to data mine the email collection in the future.
 
 ### 2020 Rain gauge and Cocorhas
 
