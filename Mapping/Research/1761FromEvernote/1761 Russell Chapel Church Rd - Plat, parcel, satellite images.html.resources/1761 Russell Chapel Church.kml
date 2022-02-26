@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>1761 Russell Chapel Church</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Homestead</name>
+			<Placemark>
+				<name>NW corner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1898239,35.7664976,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NE corner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1887631,35.7669432,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Interior NE corner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1888201,35.7668136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Interior NW corner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1896878,35.7664611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SW corner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1889254,35.7650693,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Interior SW corner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1888811,35.7651798,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SE corner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1881865,35.7653751,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Interior SE corner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1882958,35.7654257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30 ft N marker</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1887162,35.7665248,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Property N marker</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1886169,35.7665498,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Property S Marker</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1884734,35.7661613,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30 ft S Marker</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.188572,35.7661357,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Property Neighbor N</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1896074,35.7661488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30ft Neighbor N</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1895135,35.7661858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Property Neighbor S</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1893083,35.7656754,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30ft Neighbor S</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1892151,35.7657119,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Other Landmarks</name>
+			<Placemark>
+				<name>Sandvick</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.1355354,35.8097915,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bushes</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-78.97025500000001,35.792517700000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newton-Groner</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-79.0923424,35.9249008,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
