@@ -22,7 +22,6 @@ For rain measurements, using a 4" diameter high capacity manual rain gauge as re
 For temperature and humidity, we have a [3-Sensor Temperature and Humidity Smart Home Environment System with My AcuRite](https://www.acurite.com/environment-system-with-temperature-and-humidity-01059.html)
 Model #: 01006M. (Note the [Wayback Machine's last saved 2017 version of that page](https://www.acurite.com/environment-system-with-temperature-and-humidity-01059.html) is for a different model. [Private Evernote link](https://www.evernote.com/shard/s6/nl/757910/f52ba591-3caa-4a91-a629-9fe7e0a55157/)). An additional AcuRite 06044M Wireless Temperature and Humidity Monitor Sensor is used for interior measurements. At least once a month, the data from the Acurite dashboard ([private link](https://www.myacurite.com/#/dashboard/922231)) is downloaded.
 
-
 ## Observation notes
 
 ### Pollen.com
