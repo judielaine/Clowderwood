@@ -5,6 +5,7 @@
   - [Observation notes](#observation-notes)
     - [Pollen.com](#pollencom)
     - [2020 Rain gauge and Cocorhas](#2020-rain-gauge-and-cocorhas)
+    - [2022 Frost data re-think](#2022-frost-data-re-think)
   - [Site map](#site-map)
     - [Acurite directories (raw data)](#acurite-directories-raw-data)
       - [v2](#v2)
@@ -40,6 +41,20 @@ Missing: 10/31 probably dry; 11/9 thru 11/25 (other stations reported rain: 11/2
 [ ] FROST 2020-11-17 7:55  100% Frost o
 [ ] 20201124 FROST 8 am >75% frost on garage roof, frost on car
 [ ] 1/26/2020 last cocorahs << this might be 2021 
+
+### 2022 Frost data re-think
+
+Wrote CoCoRaHS and [downloaded copy of records (without notes)](CoCoRaHSReports/rescue%20of%20frost%20data-Grid%20view.csv)
+
+> Hi,
+>
+> I would like to raise a quality concern with my Frost reports for station NC-CH-41.  I have been using a roof as my observation structure and early this fall i began to be suspicious that i might have not discerned heavy dew from light frost at times. There is also a tree that shelters a bit of the roof and I'm not sure how reflective the percent coverage is of weather conditions since the tree's state -- more leaves cause more protection and less frost -- affects the results. 
+>
+> If this sounds like data that is problematic, i welcome you deleting the frost reports for my station.
+>
+> I'm not sure what i will use to replace the roof in reporting. My current plan is to observe generally in my own notes this year and then decide in Oct 2023 what the best place is. It might even be better for me to separate the frost observation from the rain measurement.
+>
+> Thanks for your assistance.
 
 ## Site map
 
