@@ -14,6 +14,7 @@ Note:
 - red painted concrete porch floor
 - plaster around walls of porch
 
+![Front porch complete](photosMisc/2021-03-29%2020.08.54.jpg)
 ## Planning
 
 ![Fieldstone](photosMisc/2020FrontSteps-FieldstoneCatalogue.png)
