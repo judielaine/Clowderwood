@@ -2,14 +2,14 @@
 
 ## Deeds and plats
 
-Folder contains documentation from the county regarding the parcel. Private notes on the purchase include other covenants, easements and deeds that need to be added here,
+Folder contains documentation from the county regarding the parcel. Private notes on the purchase include other covenants, easements and deeds that need to be added here.
 
 * 1978-12-04 filed [Map Plat Slide 29 p 1](DeedsPlats/D%20_LoganFormat_Plats_0029_00290001.tif_doc.pdf)
 * 1986-06-02 Wrenn Brothers sells to Brooks Creek Associates [B 495 p 117 (pdf)](DeedsPlats/D%20_LoganFormat_Deed_0495_04950117.tif_doc.pdf)
 * 1986-06-02 Deed of Trust [B 495 p 125] and Release 1988-03-15 [B 524 p 322] between Wrenn Brothers and Brooks Creek Associates
 * 1987-10-12 Declaration of Covenants [B 517 p 716 (pdf)](DeedsPlats/D%20_LoganFormat_Deed_0517_05170716.tif_doc.pdf)
   * includes lot 26 [Map Plat Slide 87 p 303](DeedsPlats/D%20_LoganFormat_Plats_0087_00870303.tif_doc.pdf)
-  * Section 13 notes "shall be binding for a period of 30 years from the date hereof, and may be sextended thereafter ... by majority vote."
+  * Section 13 notes "shall be binding for a period of 30 years from the date hereof, and may be extended thereafter ... by majority vote."
 * 1987-09-25 filed [Map Plat Slide 87 p 303](DeedsPlats/D%20_LoganFormat_Plats_0087_00870303.tif_doc.pdf)
 * 1987-12-01 Easement with CAROLINA POWER & LIGHT COMPANY [B 0520 p 5 (ext)](https://www.chathamncrod.org/DocumentView.asp?DocumentType=Deed&Instrument=05200005)
   * References [Map Plat Slide 29 p 1](DeedsPlats/D%20_LoganFormat_Plats_0029_00290001.tif_doc.pdf)
@@ -45,7 +45,7 @@ Folder contains documentation from the county regarding the parcel. Private note
 
 ## Property tax
 
-Current documentation of the valuation can be found [online](http://ustaxdata.com/nc/chatham/print.cfm?ownerID=55862&parcelID=0066619). Use the parcel number, 0066619, for searches of 
+Current documentation of the valuation can be found [online](http://ustaxdata.com/nc/chatham/print.cfm?ownerID=55862&parcelID=0066619). Use the parcel number, 0066619.
 
 [ ] Begin recording the annual county and fire district tax rate plus the waste fees
 
@@ -55,13 +55,11 @@ Appraisal documentation can be found in the private repository of Clowderwood do
 
 | Year | Assessed Value | Comparison Appraisal  | Cost Appraisal | Change over prior | Change over 2013 |
 |------|----------------|-----------------------|----------------|-------------------|------------------|
-| 2004 | 195,740 | | | | -8160| 
+| 2004 | 195,740 | | | | -8160|
 | 2009 | 188,502 | | | -7238 | +922 |
 | [2013](2016TaxAssessment/Parcel0066619.pdf) | 187,580        | 216,000               | 258,700        | -922                 |  0              |
 | [2017](2017TaxAssessment/20170223%20MailedNotice.jpg) | 211,838        |                       |                | 24,258            | 24,258           |
 | [2021](2021TaxAssessment/Parcel0066619.pdf) | 209,707        |                       |                | -2,131            | 22,127           |
-
-
 
 | Year | Assmt   | Δ prior | Δ 2013 | Comp    | Cost    |
 |------|---------|---------|--------|---------|---------|
@@ -72,13 +70,11 @@ Appraisal documentation can be found in the private repository of Clowderwood do
 | 2017 | 211,838 |  24,258 | 24,258 |         |         |
 | 2021 | 209,707 |  -2,131 | 22,127 |         |         |
 
-
 ### Zillow's record
 
 Public tax history
 
-
-| Year | Property Taxes	| Tax Assessment |
+| Year | Property Taxes | Tax Assessment |
 |------|---------|---------|
 | 2020 | $1,679 (+5.6%) | $211,838 |
 | 2019 | $1,590 (-7.3%) | $211,838 |
@@ -94,3 +90,46 @@ Public tax history
 | 2008 | --  | $195,740 |
 | 2007 | $1,402 (+6.6%) | $195,740 |
 | 2005 | $1,315 | $195,740  |
+
+## Commentary
+
+``` pgp
+-----BEGIN PGP MESSAGE-----
+
+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
+WNApqI1a+wEpTDNwKd4JxlYE/jVP
+=UGZB
+-----END PGP MESSAGE-----
+```
