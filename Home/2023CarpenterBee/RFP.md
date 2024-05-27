@@ -2,7 +2,7 @@
 
 We are homeowners looking for contractors to assist with remedying carpenter bee damage to a 1996 unfinished cedar siding home plus some exterior finish maintenance. We will work with an exterminator to have the holes treated to kill any bees in the siding, and will want to begin with filling the holes and painting several days later. However, we are open to considering replacing wood in some cases and in other places woodpecker damage means replacement is probably necessary. Replacement can come before treatment. After treatment and all holes are filled or replacements are complete, there is painting work and we would like the cedar siding washed.
 
-We are open to a number of different solutions to particular problems. For example, the soffits could be covered with aluminum or vinyl or the exposed wood of the soffits could be painted. At this time, we prefer painting. 
+We are open to a number of different solutions to particular problems. For example, the soffits could be covered with aluminum or vinyl or the exposed wood of the soffits could be painted. At this time, we prefer painting.
 
 ## Project dimensions
 

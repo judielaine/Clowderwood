@@ -18,6 +18,7 @@ Weekly reporting for the equinox quarters
 
 * download the Recent production (previous seven days, ideally Saturdays)
 * download best day for the week of per module one day production report.
+
 ### Daily production
 
 Download menu has a date picker; the file is named `4006647_system_energy_YYYYMMD1_to_YYYYMMD2.csv`.

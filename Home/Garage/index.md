@@ -30,9 +30,9 @@ The shed should come first so the crowded garage can be unloaded.
 * It would be nice to have a potting bench area
 * It would be nice to have a tiny greenhouse area (4" wide to the south)
   
-I would want to consider a design to be low maintenance and maintainable, regionally appropriate, rustic, with a wabi-sabi aesthetic. Our current attitude towards the unfinished cedar siding on our home is that if we replace a few boards ever twenty years, that is preferred to repainting every ten. 
+I would want to consider a design to be low maintenance and maintainable, regionally appropriate, rustic, with a wabi-sabi aesthetic. Our current attitude towards the unfinished cedar siding on our home is that if we replace a few boards ever twenty years, that is preferred to repainting every ten.
 
-The garage work is to help create creative work space. 
+The garage work is to help create creative work space.
 
 * The interior is partly finished: some walls need sheetrock.
 * The interior has random cabinetry in it: we expect that needs to be taken out.
@@ -45,11 +45,9 @@ Deliverables
 1. detailed layout and designs for shed
 2. rough layout and designs for garage conversion
 3. consult on green wood cuts from pine with forester contact
-4. consults on windows for the garage and how to stage that with addressing the current windows in the house 
+4. consults on windows for the garage and how to stage that with addressing the current windows in the house
 5. suggestion on budgets
 
-
-
- ## Garage conversion ideas
+## Garage conversion ideas
 
  The garage opens to the north, so the desire is to enlarge the garage door opening and have windows to illuminate the space with north/indirect light. Also,  the house is on a grade, and the floor of the house is more than three feet above the garage floor. Planning for aging, any ramp for house access will be problematic to install. I think better access  would be a wheelchair lift. The current door from kitchen to garage would not work for a wheel chair, so we are interested in investigating whether a door can be added to the load bearing wall between the kitchen and the garage, and open to a platform (and steps) where a lift could be added in the future. Under the platform could be storage space for the archives we have and  
