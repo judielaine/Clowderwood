@@ -8,4 +8,4 @@ On our 2016 arrival, it looked like the front steps had been recently replaced w
 
 In late 2020 we replaced the wooden steps with [new stone steps](2020FrontSteps.md). Project essentially completed 2021-04-17.
 
-
+2024-04-08 Front door painted with Benjamin Moore Curtis Salmon CW-215. See [color sample (pdf)](../Deck/DeckStainExtDoorPaint.pdf) and the [Exterior Look Book (odg)](../ExteriorLookBook.odg).
