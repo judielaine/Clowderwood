@@ -2,7 +2,7 @@
 
 ## Observations
 
-* [Log](Visual/droughtAtlasLog.csv)
+* [Log](dataVisual/droughtAtlasLog.csv)
 * 2020-05-XX
 * 2020-07-XX
 * 2020-09-XX
@@ -10,8 +10,8 @@
 ## How Clowderwood Contributes to the Atlas
 
 * [Instructions from The National Drought Mitigation Center](https://droughtimpacts.unl.edu/VisualDroughtAtlas/HowtoSubmitPhotos.aspx)
-* [Template](Visual/Template.md)
-* [Log](Visual/droughtAtlasLog.csv)
+* [Template](dataVisual/Template.md)
+* [Log](dataVisual/droughtAtlasLog.csv)
 
 Clowderwood is described to the Atlas as "other":
 > Residence with about 1 acre clearing in forest

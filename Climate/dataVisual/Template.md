@@ -1,6 +1,6 @@
 # Visual Drought Atlas: 202X-XX-XX
 
-[Back to index](../VisualDroughtAtlas.md) * [Log (csv)](VisualDroughtAtlas.csv)
+[Back to index](VisualDroughtAtlas.md) * [Log (csv)](VisualDroughtAtlas.csv)
 
 ## Panorama from deck of back, second post from porch
 
