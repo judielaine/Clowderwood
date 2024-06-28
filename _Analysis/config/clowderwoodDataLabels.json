@@ -1,0 +1,73 @@
+{
+    "acurite" : {
+        "sourceDict" :{
+            "Back Fence" : {
+                "pathKey" : "backFence",
+                "sensor" : "acurite",
+                "sensorDate" : "",
+                "sensorFull" : "",
+                "notes" : " "
+            },
+            "Back Fence Retired 2" : {
+                "pathKey" : "backFenceRetired",
+                "sensor" : "acurite",
+                "sensorDate" : "",
+                "sensorFull" : "",
+                "notes" : " "
+            },
+            "Deck" : {
+                "pathKey" : "deck",
+                "sensor" : "acurite",
+                "sensorDate" : "",
+                "sensorFull" : "",
+                "notes" : " "
+            },
+            "Garage" : {
+                "pathKey" : "garage",
+                "sensor" : "acurite",
+                "sensorDate" : "",
+                "sensorFull" : "",
+                "notes" : " "
+            },
+            "Greenhouse" : {
+                "pathKey" : "greenhouse",
+                "sensor" : "acurite",
+                "sensorDate" : "",
+                "sensorFull" : "",
+                "notes" : " "
+            },
+            "In Home Temp & Humidity" : {
+                "pathKey" : "home01",
+                "sensor" : "acurite",
+                "sensorDate" : "",
+                "sensorFull" : "",
+                "notes" : " "
+            },
+            "In home  (w/display)" : {
+                "pathKey" : "home02",
+                "sensor" : "acurite",
+                "sensorDate" : "2019-10-25",
+                "sensorFull" : "AcuRite 06044M Wireless Temperature and Humidity Monitor Sensor ",
+                "notes" : " "
+            },
+            "Raingauge" : {
+                "pathKey" : "rainGauge",
+                "sensor" : "acurite",
+                "sensorDate" : "",
+                "sensorFull" : "",
+                "notes" : " "
+            }
+        }
+    },
+    "rainGauge" : {
+        "sourceDict" :{
+            "rainGauge" : {
+                "pathKey" : "rainMeasure",
+                "sensor" : "stratus+airtable",
+                "sensorDate" : "2018-03-08",
+                "sensorFull" : "Stratus Precision Rain Gauge with Mounting Bracket (14\" All Weather)",
+                "notes" : " "
+            }
+        }
+    }
+}

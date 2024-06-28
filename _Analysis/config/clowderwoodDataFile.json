@@ -1,0 +1,13 @@
+{
+    "acurite" : {
+        "rawCSVdirList" : ["Climate/dataSource/Acurite.v2/", "Climate/dataSource/Acurite.v1/"],
+        "rawHTTPdirList" : ["Climate/dataSource/Acurite.v1/Evernote/"],
+        "processedDir" : "Climate/dataProcessed/Acurite/",
+        "summaryDir" : "Climate/dataSummary/Acurite/"
+    },
+    "rainGauge" : {
+        "rawCSVdirList" : ["Climate/dataSource/Raingauge.v1/"],
+        "processedDir" : "Climate/dataProcessed/Raingauge/",
+        "summaryDir" : "Climate/dataSummary/Raingauge/"
+    }
+}

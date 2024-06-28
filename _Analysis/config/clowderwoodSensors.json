@@ -1,0 +1,23 @@
+{
+    "acurite" :{
+        "Temperature ( F )" : {
+            "pathKey" : "temp_F",
+            "outlier min deviaion" : 1
+        },
+        "Humidity ( RH )" : {
+            "pathKey" : "humidity_RH",
+            "outlier min deviaion" : 2
+        },
+        "Dew Point ( F )" : {
+            "pathKey" : "dewPt_F"
+        },
+        "Heat Index ( F )" : {
+            "pathKey" : "heatI_F"
+        },
+        "Barometric Pressure ( INHG )" : {
+            "pathKey" : "pressure_INHG",
+            "outlier min deviaion" : 0.009
+        }
+    },
+    "stratus+airtable" : {}
+}
