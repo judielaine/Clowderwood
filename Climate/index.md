@@ -1,6 +1,7 @@
 # Clowderwood Climate
 
 - [Clowderwood Climate](#clowderwood-climate)
+  - [2024 Analysis](#2024-analysis)
   - [Processes and practices](#processes-and-practices)
   - [Observation notes](#observation-notes)
     - [Pollen.com](#pollencom)
@@ -13,6 +14,10 @@
     - [Rain gauge directories (raw data)](#rain-gauge-directories-raw-data)
 
 We began recording rain and then temperature and humidity at Clowderwood in 2018 and 2019. Wind speed is impractical to record because of the way wind is caught in the clearing and is redirected by the pines.
+
+## Analysis
+
+
 
 ## Processes and practices
 
