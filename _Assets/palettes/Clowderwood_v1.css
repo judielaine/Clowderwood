@@ -1,0 +1,50 @@
+/* 
+    Created: 2024/07/13 10:19:26
+    Last modified: 2024/07/13 10:24:47
+    Judith Bush using https://color.adobe.com
+    From a photo of the front steps 2021-03-29
+    With the paint swatches from Benjamin Moore (used on deck and doors)
+    Adding a blue and red
+    Adjusted to be accessible
+*/
+/* Color Theme Swatches in Hex */
+.Clowderwood-CWblack-hex { color: #493F3D; }
+.Clowderwood-CWorange-hex { color: #D9918B; }
+.Clowderwood-CWred-hex { color: #B83C35; }
+.Clowderwood-CWpurple-hex { color: #9F68A6; }
+.Clowderwood-CWblue-hex { color: #4653AD; }
+.Clowderwood-CWgreen-hex { color: #598865; }
+.Clowderwood-CWyellowgreen-hex { color: #C6C77E; }
+.Clowderwood-CWbrown-hex { color: #946E51; }
+.Clowderwood-CWgrey60-hex { color: #586E73; }
+.Clowderwood-CWgrey50-hex { color: #6D878C; }
+.Clowderwood-CWgrey40-hex { color: #8DA1A6; }
+.Clowderwood-CWgrey15-hex { color: #D0D7D9; }
+
+/* Color Theme Swatches in RGBA */
+.Clowderwood-CWblack-rgba { color: rgba(73, 63, 61, 1); }
+.Clowderwood-CWorange-rgba { color: rgba(217, 145, 139, 1); }
+.Clowderwood-CWred-rgba { color: rgba(184, 60, 53, 1); }
+.Clowderwood-CWpurple-rgba { color: rgba(159, 104, 166, 1); }
+.Clowderwood-CWblue-rgba { color: rgba(70, 83, 173, 1); }
+.Clowderwood-CWgreen-rgba { color: rgba(89, 136, 101, 1); }
+.Clowderwood-CWyellowgreen-rgba { color: rgba(198, 199, 126, 1); }
+.Clowderwood-CWbrown-rgba { color: rgba(148, 110, 81, 1); }
+.Clowderwood-CWgrey60-rgba { color: rgba(88, 110, 115, 1); }
+.Clowderwood-CWgrey50-rgba { color: rgba(109, 135, 140, 1); }
+.Clowderwood-CWgrey40-rgba { color: rgba(141, 161, 166, 1); }
+.Clowderwood-CWgrey15-rgba { color: rgba(208, 215, 217, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Clowderwood-CWblack-hsla { color: hsla(10, 8, 26, 1); }
+.Clowderwood-CWorange-hsla { color: hsla(4, 50, 69, 1); }
+.Clowderwood-CWred-hsla { color: hsla(3, 55, 46, 1); }
+.Clowderwood-CWpurple-hsla { color: hsla(293, 25, 52, 1); }
+.Clowderwood-CWblue-hsla { color: hsla(232, 42, 47, 1); }
+.Clowderwood-CWgreen-hsla { color: hsla(135, 20, 44, 1); }
+.Clowderwood-CWyellowgreen-hsla { color: hsla(60, 39, 63, 1); }
+.Clowderwood-CWbrown-hsla { color: hsla(25, 29, 44, 1); }
+.Clowderwood-CWgrey60-hsla { color: hsla(191, 13, 39, 1); }
+.Clowderwood-CWgrey50-hsla { color: hsla(189, 12, 48, 1); }
+.Clowderwood-CWgrey40-hsla { color: hsla(192, 12, 60, 1); }
+.Clowderwood-CWgrey15-hsla { color: hsla(193, 10, 83, 1); }
