@@ -2,7 +2,7 @@
 
 ## Duke power
 
-### [NYTimes 2024-08-03](https://www.nytimes.com/interactive/2024/08/02/climate/electricity-generation-us-states.html)
+### [_How Does Your State Make Electricity?_ Nadja Popovich, Aug. 2, 2024 NYTimes](https://www.nytimes.com/interactive/2024/08/02/climate/electricity-generation-us-states.html) 
 
 > Coal-fired power plants provided the majority of North Carolina’s electricity generation during the 2000s, but 32 of the state’s coal-burning units have been retired since 2010 and coal’s share in the state electricity mix has dwindled. Natural gas, meanwhile, has surged to become North Carolina’s top source of power, generating more than 40 percent of the state’s electricity last year.
 >
