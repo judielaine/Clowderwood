@@ -6,12 +6,13 @@ Seeds to be shared by cutting off the fruiting stems (you can carefully separate
 
 |  |  | Offering | Origin | For size, habit |
 |---|---|---|---|---|
-| _Cercis canadensis_ | redbud | plants | Wild seedlings | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/cercis-canadensis/) |
+| _Cercis canadensis_ | redbud | plants | wild seedlings | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/cercis-canadensis/) |
 | _Gladiolus_| gladiolus | bulbs | previous owner ||
-| _Rudbeckia laciniata_ | cutleaf coneflower | plants, seeds | Possible hitch hiker on plant from Cure | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/rudbeckia-laciniata/) |
-| _Saururus cernuus_ | lizard's tail | plants | From Dutch Buffalo nursery | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/saururus-cernuus/) |
-| _Smallanthus uvedalia_ | bear's foot | plants, seeds | Wild, now curated | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/smallanthus-uvedalia/) |
-| _Verbesina occidentalis_ | small yellow crownbeard | plants, seeds | Wild, now curated | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/verbesina-occidentalis/) |
+| _Lindera benzoin_ | spicebush | plant | wild seedling | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/lindera-benzoin/) |
+| _Rudbeckia laciniata_ | cutleaf coneflower | plants, seeds | hitch hiker on plant from Cure? | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/rudbeckia-laciniata/) |
+| _Saururus cernuus_ | lizard's tail | plants | from Dutch Buffalo nursery | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/saururus-cernuus/) |
+| _Smallanthus uvedalia_ | bear's foot | plants, seeds | wild, now curated | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/smallanthus-uvedalia/) |
+| _Verbesina occidentalis_ | small yellow crownbeard | plants, seeds | wild, now curated | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/verbesina-occidentalis/) |
 
 Happy for donations of the following
 
@@ -21,6 +22,8 @@ Happy for donations of the following
 ## Notes on the plants
 
 _Gladiolus_ are most likely a pink mid May, possibly a later season apricot/peach color, and there may be a few bulbs for plum colored blooms.
+
+_Lindera benzoin_ (spicebush) Entangled with an azalea. I suppose i should just cut it back.
 
 _Rudbeckia laciniata_ (cutleaf coneflower) Love the edible greens. Wish the deer would let the plants outside of fences plants get big. Happy to provide seeds by cutting off fruiting stems. 
 
@@ -53,12 +56,51 @@ _Elephantopus tomentosus_ (elephant's foot) low growing, winter-dormant ground c
   * Edge of meadow
   * Garden plot
 
+## Images
+
+![20240823_092435.jpg](./2024AutumPlants/20240823_092435.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092435.jpg)
+
+![20240823_092501.jpg](./2024AutumPlants/20240823_092501.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092501.jpg)
+
+![20240823_092502.jpg](./2024AutumPlants/20240823_092502.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092502.jpg)
+
+![20240823_092507.jpg](./2024AutumPlants/20240823_092507.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092507.jpg)
+
+![20240823_092518.jpg](./2024AutumPlants/20240823_092518.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092518.jpg)
+
+![20240823_092525.jpg](./2024AutumPlants/20240823_092525.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092525.jpg)
+
+![20240823_092613.jpg](./2024AutumPlants/20240823_092613.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092613.jpg)
+
+![20240823_092618.jpg](./2024AutumPlants/20240823_092618.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092618.jpg)
+
+![20240823_092702.jpg](./2024AutumPlants/20240823_092702.jpg)
+
+[Full](./2024AutumPlants/fullSize/20240823_092702.jpg)
+
+
 ## Scratch pad
 
 |  |  | Offering | Origin | For size, habit |
 |---|---|---|---|---|
 | _Elephantopus tomentosus_ | elephant's foot | TBD | Wild, now curated | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/elephantopus-tomentosus/) |
-| __ |  |  |  | [NCSU plant toolbox]() |
+
 | __ |  |  |  | [NCSU plant toolbox]() |
 | __ |  |  |  | [NCSU plant toolbox]() |
 | __ |  |  |  | [NCSU plant toolbox]() |
