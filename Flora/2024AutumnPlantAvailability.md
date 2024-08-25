@@ -1,6 +1,6 @@
 # 2024 autumn plant availability
 
-Updated 2024-08-24 16:01:59
+Updated 2024-08-24 20:17:43
 
 Seeds to be shared by cutting off the fruiting stems (you can carefully separate them in your garden). 
 
@@ -9,6 +9,7 @@ Seeds to be shared by cutting off the fruiting stems (you can carefully separate
 | _Cercis canadensis_ | redbud | plants | wild seedlings | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/cercis-canadensis/) |
 | _Gladiolus_| gladiolus | bulbs | previous owner ||
 | _Lindera benzoin_ | spicebush | plant | wild seedling | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/lindera-benzoin/) |
+| _Phytolacca americana_ | pokeweed | plant | wild | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/phytolacca-americana/) |
 | _Rudbeckia laciniata_ | cutleaf coneflower | plants, seeds | hitch hiker on plant from Cure? | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/rudbeckia-laciniata/) |
 | _Saururus cernuus_ | lizard's tail | plants | from Dutch Buffalo nursery | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/saururus-cernuus/) |
 | _Smallanthus uvedalia_ | bear's foot | plants, seeds | wild, now curated | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/smallanthus-uvedalia/) |
@@ -43,6 +44,10 @@ _Elephantopus tomentosus_ (elephant's foot) low growing, winter-dormant ground c
 * _Gladiolus_ bulbs
   * Black walnut area
   * garden plot
+* _Lindera benzoin_
+  * Very close to azalea
+* _Phytolacca americana_
+  * near the elderberry -- this is a very large, many year old plant. It is no longer in the shade and is shading out the replacement elderberry.
 * _Rudbeckia laciniata_ Very mature plants
   * under trellis 2?
   * off deck 7?
@@ -94,13 +99,10 @@ _Elephantopus tomentosus_ (elephant's foot) low growing, winter-dormant ground c
 
 [Full](./2024AutumPlants/fullSize/20240823_092702.jpg)
 
-
 ## Scratch pad
 
 |  |  | Offering | Origin | For size, habit |
 |---|---|---|---|---|
 | _Elephantopus tomentosus_ | elephant's foot | TBD | Wild, now curated | [NCSU plant toolbox](https://plants.ces.ncsu.edu/plants/elephantopus-tomentosus/) |
-
-| __ |  |  |  | [NCSU plant toolbox]() |
 | __ |  |  |  | [NCSU plant toolbox]() |
 | __ |  |  |  | [NCSU plant toolbox]() |
