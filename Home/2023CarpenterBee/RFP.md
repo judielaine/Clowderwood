@@ -8,7 +8,7 @@ We are open to a number of different solutions to particular problems. For examp
 
 Using the tax appraisal sketch for dimensions, the exterior footprint of the parts of the house with siding is 248 linear feet in circumference.  There are 123 linear foot of eaves and 143 linear foot of gables (total is not the same as siding circumference because of porches and an odd roofing bit). It is a one story home.
 
-![County sketch](../../CountyDocs/2021TaxAssessment/Sketch0066619.gif)
+![County sketch](../../County docs/2021TaxAssessment/Sketch0066619.gif)
 
 [PDF sketch marking eves and gables](./EvesAndGablesSketch.pdf)
 
