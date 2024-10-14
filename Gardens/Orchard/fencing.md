@@ -22,7 +22,38 @@ It crushed the NW corner of the orchard fence.
 
 20240831
 
-In order to be able to let the pets out, we spent Saturday clearing a space and then building a temporary fence. While I had some fencing and a 8’ t-post, we still needed more fencing: another 50’ of rabbit fence and 100’ of wildlife netting (much cheaper than the deer fencing. Very much netting.)
+In order to be able to let the pets out, we spent Saturday clearing a space and then building a temporary fence. While I had some fencing and a 8’ t-post, we still needed more fencing: another 50’ of rabbit fence and 100’ o}f wildlife netting (much cheaper than the deer fencing. Very much netting.)
+
+## Self build estimate
+
+|  price  | item            | source |
+|---------|-----------------|------|
+|  99.00  | Barbwire angles | Etsy |
+|  86.98  | Welded wire     | Lowes|
+|  25.42  | Brace hardware  | AMZ  |
+|  47.40  | 3 10' T-posts   | CFH  |
+|  30.00  | 4 6' T-posts    | CFH  |
+| 120.95  | Tenax           | CFH  |
+| 409.75  | Total           | ---  |
+
+``` csv
+    99.00, Barbwire angles, Etsy
+    86.98, Welded wire, Lowes
+    25.42, Brace hardware, AMZ
+    47.4, 3 10' T-posts, CFH
+    30.00, 4 6' T-posts, CFH
+    120.95, Tenax, CFH
+```
+
+* [Barbwire angles](https://www.etsy.com/listing/1432533339/barbwire-arm-extensions-for-t-post-6pack): These extensions are designed on a 45-degree angle. They measure approximately 14" in length and are a fast and easy bolt-on job! This lot comes in a pack of 6!
+* [Welded wire](https://www.lowes.com/pd/Garden-Zone-black-Steel-Welded-wire-Common-50-x-4-Actual-50-x-4/1000639123): GARDEN CRAFT 50-ft x 4-ft Black PVC Coated Steel Welded Wire Rolled Fencing with Mesh Size 2-in x 3-in
+* [10' T posts](https://chathamfarmsupply.com/files/articles/uploads/fencing_updated_07-27-24.pdf): 815 10’ T Post 1.33 Heavy Duty 15.80*3
+* [Tenax](https://chathamfarmsupply.com/files/articles/uploads/fencing_updated_07-27-24.pdf):725 7 ½’ x 100’ C Flex Tenax Plastic
+
+Skipping bracing
+
+* XX [Brace hardware](https://www.amazon.com/Wedge-Loc-Corner-Inline-Brace/dp/B000VA7IPY/):205 Corner & Inline Brace Set, Brown/A
+* XX [6' T posts](https://chathamfarmsupply.com/files/articles/uploads/fencing_updated_07-27-24.pdf): 811 6’ T Post 1.33 Heavy Duty  7.50*4
 
 ## Independence Fence Co
 
