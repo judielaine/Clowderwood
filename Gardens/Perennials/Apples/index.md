@@ -22,13 +22,22 @@ david@centuryfarmorchards.com        </br>
 Reidsville, NC                       </br>
 336.349.5709                         </br>
 
-
 ## 01 Malykin east tree
+
+Could these be "Rusty Coat (Andrews)" per [historicsites.nc.gov apple listing?](https://historicsites.nc.gov/all-sites/horne-creek-farm/southern-heritage-apple-orchard/learn-more/apple-variety-information/apple-index-red-reese-rusty-coat)
+
+![Rusty Coat Andrews](./Rusty%20Coat-Andrews.jpg)
+
+> Description: Fruit small, roundish; skin covered with a tan russet; dots not visible. Flesh fine-grained, crisp, moderately juicy, mild subacid. Ripe late July.
+>
+> History: ... Lee Calhoun found an old apple tree near Andrews Store in Chatham County, North Carolina, called Rusty Coat by its owner, and which is listed here as Rusty Coat (Andrews).
 
 * 20161217-18 pruned Malykin’s apples
 * 20170416 Both Malykin apples leafed out. No flowers. Sandviks & Bushes apples blooming.
 * 20180808 Both Malykin apples had a few blossoms.
 * 20190413 Remaining Malykin has a handful of blooms.
+
+2024 Harvested 11 pounds of small applies on August 10th. The apples are small, green woth much russeting.
 
 ## 02 Malykin west tree (removed)
 
