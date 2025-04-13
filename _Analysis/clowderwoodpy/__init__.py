@@ -1,5 +1,5 @@
 # Created: 2024/05/24 08:16:45
-# Last modified: 2024/06/24 09:20:35
+# Last modified: 2025/02/16 20:32:20
 #
 """ Clowderwood Python scripts
 
@@ -84,7 +84,7 @@ def cw_start(verbose=False):
         return None
 
 
-def getCW_DATA_FILEList(dataFileDictionary, source, stateDirs):
+def getCWDataFileList(dataFileDictionary, source, stateDirs):
     """
     Given the cwDataDict and specific source and stateDir keys, get a list
     of appropriately extensioned files in the directories.
