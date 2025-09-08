@@ -1,0 +1,12 @@
+[project]
+name = "clowderwood"
+version = "0.1.0"
+description = "Clowderwood data analysis environment"
+requires-python = ">=3.12"
+
+[tool.pdm]
+build = false
+
+[project.dependencies]
+pandas = "*"
+numpy = "*"
