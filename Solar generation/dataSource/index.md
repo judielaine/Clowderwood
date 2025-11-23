@@ -2,6 +2,12 @@
 
 Power production began 2023-03-22.
 
+TODO evaluate all the miscelaneous reports for per panel data that can be compared to current per panel data. Trust the 15 min agregate reports are generally sufficient for continuous analysis.
+
+## 15 min custom reports
+
+* Clowderwood/Solar generation/dataSource/20230306-0000-20240709-2345-15minEnergyProduction.csv is duplicated in the data analysis packages
+
 ## About report types
 
 Enphase reports are available at [the website](https://enlighten.enphaseenergy.com/web/4006647/history/graph/hours?source=my_enlighten)
