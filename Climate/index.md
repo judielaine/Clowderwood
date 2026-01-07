@@ -1,23 +1,23 @@
 # Clowderwood Climate
 
-- [Clowderwood Climate](#clowderwood-climate)
-  - [2024 Analysis](#2024-analysis)
-  - [Processes and practices](#processes-and-practices)
-  - [Observation notes](#observation-notes)
-    - [Pollen.com](#pollencom)
-    - [2020 Rain gauge and CoCoRaHS](#2020-rain-gauge-and-cocorahs)
-    - [2022 Frost data re-think](#2022-frost-data-re-think)
-  - [Site map](#site-map)
-    - [Acurite directories (raw data)](#acurite-directories-raw-data)
-      - [v2](#v2)
-      - [v1](#v1)
-    - [Rain gauge directories (raw data)](#rain-gauge-directories-raw-data)
+* [Clowderwood Climate](#clowderwood-climate)
+  * [Analysis](#analysis)
+  * [Processes and practices](#processes-and-practices)
+  * [Observation notes](#observation-notes)
+    * [Pollen.com](#pollencom)
+    * [2020 Rain gauge and CoCoRaHS](#2020-rain-gauge-and-cocorahs)
+    * [2022 Frost data re-think](#2022-frost-data-re-think)
+  * [Site map](#site-map)
+    * [Acurite directories (raw data)](#acurite-directories-raw-data)
+      * [v2](#v2)
+      * [v1](#v1)
+    * [Rain gauge directories (raw data)](#rain-gauge-directories-raw-data)
+  * [Tools and sensors](#tools-and-sensors)
+    * [Acurite](#acurite)
 
 We began recording rain and then temperature and humidity at Clowderwood in 2018 and 2019. Wind speed is impractical to record because of the way wind is caught in the clearing and is redirected by the pines.
 
 ## Analysis
-
-
 
 ## Processes and practices
 
@@ -102,3 +102,10 @@ The 2019 airtable export includes the following headers
 The 2020 file also contains a field "Recorded" to document when the entry was made at Airtable.
 
 The v1 data is recorded at the end of the brick walkway of the house. For some time, the gauge was just left on the sidewalk. Once the apple tree was cut down, the gauge was mounted properly on the stump.
+
+## Tools and sensors
+
+### Acurite
+
+* 2025-12-27 11:14:47 Replaced back fence sensor in shelter with new model 06002M set to A with Energiser Ultimate Lithium batteries
+* "11/5/2023 16:20" Installed new sensor inside protective housing on back fence. Fully charged batteries, letter "A".
