@@ -18,6 +18,10 @@
       * [Instruction 7 Bloom time](#instruction-7-bloom-time)
       * [Instruction 8 terms](#instruction-8-terms)
 
+See separate prompts
+
+* [Purchases in 2026-02](./20260207.md)
+
 ## Brent and Becky CSV
 
 I will be pasting in text from a vendor, and each selection i would like you to create a row in a csv file. Most of the plants are named by the vendor `[Genus] - [Species] '[Selection]'`  with a few variations.
@@ -321,7 +325,7 @@ pale lavender-blue  ->  blue purple
 lilac-purple  -> purple
 cerise-pink -> rose
 rosy pink -> rose
-light violet-blue
+light violet-blue ->  blue purple
 deep pink -> rose
 purple-red -> vermillion
 light red -> pink
